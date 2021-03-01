@@ -1,0 +1,77 @@
+/* here is the stylesheet added when exporting from InDesign to HTML */
+
+
+body {
+}
+
+div.everything{
+  width: 65%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+  img {
+  width: 60%;
+  }
+
+  section {
+  border: 2px solid red;
+
+  }
+section.dramatis {
+}
+section.play {
+}
+
+section.contents {
+
+}
+
+div.sceneImage {
+}
+
+h1.act {
+
+}
+p.character {
+
+}
+p.charactername {
+
+}
+h1.dramatishead {
+
+}
+h2.firstscene {
+
+}
+h2.location {
+
+}
+p.play_location {
+
+}
+p.prose {
+    margin: 0 0 0 200px;
+
+}
+h2.scene {
+
+}
+p.song {
+
+}
+h2.stagedirection {
+
+}
+
+p.verseline {
+  margin: 0 0 0 200px;
+}
+span.character_role {
+
+}
+
+span.stage_directions_inline {
+
+}
