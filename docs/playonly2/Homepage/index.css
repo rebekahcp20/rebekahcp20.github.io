@@ -1,0 +1,74 @@
+body {
+
+background: silver;
+margin: 30px;
+font-family: PT serif, Tamil MN, Telugu MN, Palantino, fantasy;
+
+}
+
+img {
+  width: 70%
+}
+
+
+li {
+
+  color: brown;
+
+}
+
+h1.title {
+  font-family: georgia, serif;
+  text-align: center;
+  background-color: rgba(139, 47, 36, 0.88);
+  color: white;
+}
+
+h2 {
+color: rgb(126, 20, 55);
+}
+
+p {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 18px;
+  border: 1px solid rgb(119, 110, 180);
+  padding: 10px;
+  background: brown;
+
+}
+
+.first {
+  background-color:rgba(139, 47, 36, 0.88);
+  color:black;
+
+}
+
+.second {
+
+  background-color: rgba(139, 47, 36, 0.88);
+  color: black;
+
+}
+
+
+ul {
+
+}
+
+.everything {
+  float: left;
+  width: 60%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: .8rem 1rem;
+
+}
+
+.gotoplay a{
+  text-decoration: none;
+  color: brown;
+}
+
+
+}
